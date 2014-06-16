@@ -3,8 +3,8 @@ README
 NAME 
     test.sh   --list environment,network address
 
-SYNOPSIS
-    test.sh
+USAGE
+    test.sh  [no argument]
 
 DESCRIOTION
     List information about environment and network address 
