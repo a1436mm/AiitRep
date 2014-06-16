@@ -1,1 +1,11 @@
 README
+
+NAME 
+    test.sh   --list environment,network address
+
+SYNOPSIS
+    test.sh
+
+DESCRIOTION
+    List information about environment and network address 
+
